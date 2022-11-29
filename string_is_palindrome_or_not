@@ -1,0 +1,5 @@
+let str="null";
+let x="";
+for(let i=0;i<str.length;i++){
+
+}
